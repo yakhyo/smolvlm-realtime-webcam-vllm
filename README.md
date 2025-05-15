@@ -65,7 +65,7 @@ The script will automatically fall back to the default model if no argument is p
 
 ### 3. Launch the Frontend
 
-Open `demo.html` on a browser and allow access to webcam. Done!
+Open `index.html` on a browser and allow access to webcam. Done!
 
 Tested using RTX 4090
 
