@@ -3,6 +3,7 @@
 <div align="center">
     <img src="image.png">
 </div>
+
 Real-time webcam demo using [SmolVLM](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Instruct) with a [vLLM](https://github.com/vllm-project/vllm) backend.
 
 The app captures webcam images in the browser, sends them with a text prompt to a local vLLM server via OpenAI-compatible API, and displays the model’s visual-language response.
