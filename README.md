@@ -1,4 +1,4 @@
-# smolvlm-realtime-webcam-vllm
+# SmolVLM Real-Time Webcam using vLLM Backend
 
 <div align="center">
     <img src="image.png">
