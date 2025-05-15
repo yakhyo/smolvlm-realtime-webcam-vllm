@@ -1,4 +1,4 @@
-# SmolVLM Real-Time Webcam using vLLM Backend
+# SmolVLM Real-Time Webcam Demo using vLLM Backend
 
 <div align="center">
     <img src="image.png">
